@@ -1,0 +1,7 @@
+.vscode
+node_modules
+.idea/
+junit
+.DS_Store
+features/reports
+artifacts
